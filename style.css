@@ -1,0 +1,27 @@
+
+body{
+    margin: 50px;
+   align-items: center;   
+   font-family: 'Open Sans', sans-serif;
+ 
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+#studentList{
+    align-items: center;
+    
+}
+.inputName{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.inputNumber{
+    display: inline-flex;
+
+}
+.inputs{
+    justify-content: space-between;
+}
